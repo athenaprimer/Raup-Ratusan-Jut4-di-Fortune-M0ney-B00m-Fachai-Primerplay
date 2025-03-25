@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Mar 2025 15:46:32 at https://meluncurkebulan61.github.io/news/Sukses-Raup-Ratusan-Juta-di-Fortune-Money-Boom-Fachai-BukitMPO.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://meluncurkebulan61.github.io/news/Sukses-Raup-Ratusan-Juta-di-Fortune-Money-Boom-Fachai-BukitMPO.html -O1 "C:\My Web Sites\Maret\16 Maret\5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:46:37	Error: 	"Not Found" (404) at link https://jagoanslot.github.io/akun-gacor/Team-Gacor-1-23-2025.png (from https://meluncurkebulan61.github.io/news/Sukses-Raup-Ratusan-Juta-di-Fortune-Money-Boom-Fachai-BukitMPO.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 9 links scanned, 7 files written (1568558 bytes overall) [1555056 bytes received at 259176 bytes/sec], 58176 bytes transferred using HTTP compression in 3 files, ratio 36%, 1.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
